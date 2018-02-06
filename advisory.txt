@@ -1,0 +1,6 @@
+About:
+
+The purpose of this project is to replicate the classic retro game Tetris.
+This project first began as a final Project for the intro to computer
+science course. Since then it has been modified for compatibility with
+python 3.6.

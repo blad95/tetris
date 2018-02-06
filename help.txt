@@ -1,0 +1,9 @@
+How to Play:
+
+7 different tetris objects will 'fall' one at a time on the matrix.
+Use the left, right, up, and down arrow keys to either move the
+tetris object or rotate it, respectively. 
+
+Points are awarded for every row that is cleared. Rows are cleared by
+manipulating the objects so that they fill a horizontal row. Only when every
+square of the row has been filled will the player receives points.
